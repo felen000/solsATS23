@@ -1,0 +1,10 @@
+stop
+do_not_enter
+no_motor_vehicles
+parking
+pedestrian_crossing
+person
+roadwork_ahead
+speed_bump
+traffic_light
+yield
